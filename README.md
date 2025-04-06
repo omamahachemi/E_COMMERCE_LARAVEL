@@ -96,4 +96,5 @@ Ce projet est une plateforme de gestion e-commerce complète comprenant un table
 ## 👤 Auteur
 - **Nom** : BOUFELJA Omaima
 - **Email** : omaimaboufelja.pro@gmail.com
+- **Linkedin** : https://www.linkedin.com/in/omaima-boufelja-9758b1291/
 
