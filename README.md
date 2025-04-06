@@ -1,4 +1,4 @@
-# README - Projet de Gestion E-commerce
+![Capture d’écran (18)](https://github.com/user-attachments/assets/cd709257-a6d4-4438-819b-895e601f8bf6)![Capture d’écran (17)](https://github.com/user-attachments/assets/9db98765-d60e-43f0-9ca5-d1f0c3418f40)# README - Projet de Gestion E-commerce
 
 ## 📌 Table des matières
 1. [Introduction](#-introduction)
@@ -44,42 +44,47 @@ Ce projet est une plateforme de gestion e-commerce complète comprenant un table
 ## 📸 Captures d'écran
 ### Interface Utilisateur
 ### **Produits phares**
-![Capture d’écran (7)](https://github.com/user-attachments/assets/09d0122c-a3f0-4a63-8986-2e7e7faf9dd3)
-![Capture d’écran (8)](https://github.com/user-attachments/assets/3f8393e2-feac-4f17-98f3-b469daa529db)
+![Capture d’écran (7)](https://github.com/user-attachments/assets/5aa777da-cee0-4d5c-ab5a-edec8fd09581)
+![Capture d’écran (8)](https://github.com/user-attachments/assets/d16acd30-5428-481f-93df-349177e2886c)
 *Section mettant en avant les produits populaires.*
 
 ### Interface Login & Register
-![Capture d’écran (9)](https://github.com/user-attachments/assets/3922b6a0-ed8a-4f6f-a1f4-09938590d6f7)
-![Capture d’écran (10)](https://github.com/user-attachments/assets/3c13f1ab-bb29-4891-a216-9ac4d1de2feb)
+![Capture d’écran (9)](https://github.com/user-attachments/assets/e2f95e76-07ee-44d5-9e20-d9c3319c3237)
+![Capture d’écran (10)](https://github.com/user-attachments/assets/335e75be-9e3b-410e-9c70-13b5f9574f24)
 
 ### Interface Administrateur
 ### **Tableau de bord**
-![Capture d’écran (12)](https://github.com/user-attachments/assets/7abd4191-6586-4e03-9522-2a84c0f42cea)
+![Capture d’écran (12)](https://github.com/user-attachments/assets/3c9c7691-a234-4d09-95c9-54aa01226df0)
+
 *Vue d'ensemble des produits, commandes et statistiques.*
 
 ### **Liste des produits**
-![Capture d’écran (13)](https://github.com/user-attachments/assets/a3ce5d59-f7e5-408c-b912-03bb9fd2d135)
+![Capture d’écran (13)](https://github.com/user-attachments/assets/63634e22-caea-4914-b00e-c85c43a71185)
+
 *Gestion des produits avec options d'édition et de suppression.*
 
 ### **Ajout d'un produit**
-![Capture d’écran (14)](https://github.com/user-attachments/assets/c62b7e4b-2bf5-4260-8d85-ef7e3041a0c5)
+![Capture d’écran (14)](https://github.com/user-attachments/assets/f3a0cea8-41df-43a6-92e7-d67f44fa2f29)
+
 *Formulaire d'ajout de produit avec génération automatique de description.*
 
 ### **Détails d'un produit**
-![Capture d’écran (15)](https://github.com/user-attachments/assets/febb6692-2eb7-4fed-9327-c063aa07a22d)
+![Capture d’écran (15)](https://github.com/user-attachments/assets/6451ba18-e9a4-46d7-a9b2-4cf023595865)
+
 *Fiche détaillée d'un produit spécifique.*
 
 ### **Gestion des catégories**
-![Capture d’écran (16)](https://github.com/user-attachments/assets/aa3f3098-1692-4042-b345-00b7d3365b87)
+![Capture d’écran (16)](https://github.com/user-attachments/assets/60607b6f-a633-4e3e-8b3a-38e08fdf3144)
+
 *Création et organisation des catégories de produits.*
 
 ### **Gestion des commandes**
-![Capture d’écran (17)](https://github.com/user-attachments/assets/7444a713-54fe-46c8-b3cd-f59458f631b0)
-![Capture d’écran (18)](https://github.com/user-attachments/assets/2f49979e-2a1e-48a1-af5b-4da5bfcfff33)
+![Capture d’écran (17)](https://github.com/user-attachments/assets/c17135e9-ffab-4825-a8a3-16a2eae6b644)
+![Capture d’écran (18)](https://github.com/user-attachments/assets/1c6a72ec-ba1e-4809-99ed-a3513ac0d04d)
 
 ### **Gestion des Utilisateurs**
-![Capture d’écran (19)](https://github.com/user-attachments/assets/0222904f-7c48-42c5-ab7d-f1fc1b0aa81c)
-![Capture d’écran (20)](https://github.com/user-attachments/assets/5609d15e-1f17-4c20-b74b-01f6a39428ba)
+![Capture d’écran (19)](https://github.com/user-attachments/assets/1afdda62-2213-4d08-9355-0db288cb04d2)
+![Capture d’écran (20)](https://github.com/user-attachments/assets/258bc41e-d35e-4bd6-99cd-c9d99956acbf)
 
 ---
 
@@ -91,10 +96,4 @@ Ce projet est une plateforme de gestion e-commerce complète comprenant un table
 ## 👤 Auteur
 - **Nom** : BOUFELJA Omaima
 - **Email** : omaimaboufelja.pro@gmail.com
-- **LinkedIn** : 
-- **GitHub** : [lien vers votre profil GitHub]
 
----
-
-## 📄 Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
