@@ -25,7 +25,7 @@ Ce projet est une plateforme de gestion e-commerce complète comprenant un table
 ### **Gestion des produits**
 - Ajout, modification et suppression de produits.
 - Détails complets des produits (nom, description, prix, quantité, catégorie).
-- Génération automatique de descriptions via IA.
+- Génération automatique de descriptions et des images via IA.
 
 ### **Gestion des catégories**
 - Création et gestion des catégories de produits.
