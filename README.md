@@ -1,4 +1,4 @@
-![Capture d’écran (18)](https://github.com/user-attachments/assets/cd709257-a6d4-4438-819b-895e601f8bf6)![Capture d’écran (17)](https://github.com/user-attachments/assets/9db98765-d60e-43f0-9ca5-d1f0c3418f40)# README - Projet de Gestion E-commerce
+# README - Projet de Gestion E-commerce
 
 ## 📌 Table des matières
 1. [Introduction](#-introduction)
