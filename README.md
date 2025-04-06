@@ -5,9 +5,7 @@
 2. [Fonctionnalités](#-fonctionnalités)
 3. [Captures d'écran](#-captures-décran)
 4. [Technologies utilisées](#-technologies-utilisées)
-5. [Installation](#-installation)
-6. [Structure du projet](#-structure-du-projet)
-7. [Auteur](#-auteur)
+5. [Auteur](#-auteur)
 
 ---
 
